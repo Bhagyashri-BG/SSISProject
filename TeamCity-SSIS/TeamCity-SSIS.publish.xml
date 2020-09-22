@@ -3,7 +3,7 @@
   <PropertyGroup>
     <IncludeCompositeObjects>True</IncludeCompositeObjects>
     <TargetDatabaseName>SimonTeamCity</TargetDatabaseName>
-    <DeployScriptFileName>TeamCity-SSIS.sql</DeployScriptFileName>
+    <DeployScriptFileName>Person.sql</DeployScriptFileName>
     <TargetConnectionString>Data Source=BHAGYASHRI\SQLBGDEV2016;Integrated Security=True;Persist Security Info=False;Pooling=False;MultipleActiveResultSets=False;Connect Timeout=60;Encrypt=False;TrustServerCertificate=False</TargetConnectionString>
     <ProfileVersionNumber>1</ProfileVersionNumber>
   </PropertyGroup>
