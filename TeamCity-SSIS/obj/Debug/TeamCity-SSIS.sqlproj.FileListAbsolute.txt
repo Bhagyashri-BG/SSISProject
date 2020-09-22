@@ -1,0 +1,6 @@
+C:\Users\BG\source\repos\TeamCity-SSIS\bin\Debug\TeamCity-SSIS.dacpac
+C:\Users\BG\source\repos\TeamCity-SSIS\bin\Debug\TeamCity_SSIS.dll
+C:\Users\BG\source\repos\TeamCity-SSIS\bin\Debug\TeamCity_SSIS.pdb
+C:\Users\BG\source\repos\TeamCity-SSIS\obj\Debug\TeamCity-SSIS.sqlprojAssemblyReference.cache
+C:\Users\BG\source\repos\TeamCity-SSIS\obj\Debug\TeamCity_SSIS.dll
+C:\Users\BG\source\repos\TeamCity-SSIS\obj\Debug\TeamCity_SSIS.pdb
