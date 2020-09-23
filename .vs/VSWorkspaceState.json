@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TeamCity-SSIS",
+    "\\TeamCity-SSIS\\bin\\Debug",
+    "\\TeamCity-SSIS\\Import Script Logs"
   ],
+  "SelectedNode": "\\TeamCity-SSIS\\TeamCity-SSIS.publish.xml",
   "PreviewInSolutionExplorer": false
 }
